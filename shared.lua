@@ -2,8 +2,8 @@ AddCSLuaFile()
 
 SWEP.Author                     =   "Grüner Mexikaner"
 SWEP.Base                       =   "weapon_base"
-SWEP.PrintName                  =   "Mexikanerwaffe"
-SWEP.Instructions               =   "Einfach schießen"
+SWEP.PrintName                  =   "A10 Revolver"
+SWEP.Instructions               =   "Just shoot like an A10 Warthog!"
 
 
 SWEP.ViewModel                  =   "models/weapons/c_357.mdl"
